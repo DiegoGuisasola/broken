@@ -1,7 +1,7 @@
 # The Broken Symphony
 
 <div style="text-align: center;">
-  <img src="/assets/images/9.png" alt="The Broken Symphony">
+  <img src="/broken/assets/images/9.png" alt="The Broken Symphony">
 </div>
 
 ## Resumen
