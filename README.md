@@ -18,11 +18,9 @@ Este proyecto se compone de diversas secciones que abarcan desde el viaje person
   <img src="/broken/assets/images/2.png" alt="Luka and Carlos" width="50%">
 </p>
 
-2. **Metáfora de la Biblioteca y Perspectivas Neurocientíficas:** Sumérgete en una exploración profunda de la metáfora de la biblioteca y su conexión con las perspectivas neurocientíficas del trauma y la disociación. Descubre cómo se crean y almacenan las memorias en el cerebro y qué ocurre durante un evento traumático que puede llevar a la fragmentación de la identidad. 
-
-Explora cómo la biblioteca representa las experiencias fragmentadas y los recuerdos en la mente de Luka. Cada sección de la biblioteca simboliza un aspecto específico de su historia y personalidad, y a medida que Luka navega por ella, desentraña las pistas ocultas que lo ayudan a comprender su propia narrativa.
-
-Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neurocientíficos del trauma y la disociación. Descubre cómo los recuerdos fragmentados se almacenan en diferentes secciones de la biblioteca mental y cómo los procesos neurobiológicos pueden influir en la organización de la identidad.
+2. **Metáfora de la Biblioteca y Perspectivas Neurocientíficas:** Sumérgete en una exploración profunda de la metáfora de la biblioteca y su conexión con las perspectivas neurocientíficas del trauma y la disociación. Descubre cómo se crean y almacenan las memorias en el cerebro y qué ocurre durante un evento traumático que puede llevar a la fragmentación de la identidad. </br>
+Explora cómo la biblioteca representa las experiencias fragmentadas y los recuerdos en la mente de Luka. Cada sección de la biblioteca simboliza un aspecto específico de su historia y personalidad, y a medida que Luka navega por ella, desentraña las pistas ocultas que lo ayudan a comprender su propia narrativa. </br>
+Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neurocientíficos del trauma y la disociación. Descubre cómo los recuerdos fragmentados se almacenan en diferentes secciones de la biblioteca mental y cómo los procesos neurobiológicos pueden influir en la organización de la identidad. </br>
 
 <p align="center">
   <img src="/broken/assets/images/3.png" alt="Ghost Writer" width="50%">
