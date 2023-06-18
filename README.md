@@ -18,15 +18,15 @@ Este proyecto se compone de diversas secciones que abarcan desde el viaje person
   <img src="/broken/assets/images/2.png" alt="Luka and Carlos" width="50%">
 </p>
 
-2. **Metáfora de la Biblioteca y Perspectivas Neurocientíficas:** Sumérgete en una exploración profunda de la metáfora de la biblioteca y su conexión con las perspectivas neurocientíficas del trauma y la disociación. Descubre cómo se crean y almacenan las memorias en el cerebro y qué ocurre durante un evento traumático que puede llevar a la fragmentación de la identidad. </br>
-Explora cómo la biblioteca representa las experiencias fragmentadas y los recuerdos en la mente de Luka. Cada sección de la biblioteca simboliza un aspecto específico de su historia y personalidad, y a medida que Luka navega por ella, desentraña las pistas ocultas que lo ayudan a comprender su propia narrativa. </br>
-Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neurocientíficos del trauma y la disociación. Descubre cómo los recuerdos fragmentados se almacenan en diferentes secciones de la biblioteca mental y cómo los procesos neurobiológicos pueden influir en la organización de la identidad. </br>
+2. **Metáfora de la Biblioteca y Perspectivas Neurocientíficas:** Sumérgete en una exploración profunda de la metáfora de la biblioteca y su conexión con las perspectivas neurocientíficas del trauma y la disociación. Descubre cómo se crean y almacenan las memorias en el cerebro y qué ocurre durante un evento traumático que puede llevar a la fragmentación de la identidad.</br>
+Explora cómo la biblioteca representa las experiencias fragmentadas y los recuerdos en la mente de Luka. Cada sección de la biblioteca simboliza un aspecto específico de su historia y personalidad, y a medida que Luka navega por ella, desentraña las pistas ocultas que lo ayudan a comprender su propia narrativa.</br>
+Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neurocientíficos del trauma y la disociación. Descubre cómo los recuerdos fragmentados se almacenan en diferentes secciones de la biblioteca mental y cómo los procesos neurobiológicos pueden influir en la organización de la identidad.</br>
 
 <p align="center">
   <img src="/broken/assets/images/3.png" alt="Ghost Writer" width="50%">
 </p>
    
-3. **Neurociencia y El Proceso del Trauma:** Sumérgete en el proceso del trauma y cómo puede dar lugar a la compartimentalización de las experiencias. Descubre cómo los eventos traumáticos pueden desencadenar la fragmentación de la identidad y la creación de Entidades Partes (EPs) como mecanismo de supervivencia. Explora los procesos neurobiológicos que subyacen a la formación de EPs y alters en el trauma complejo. Aprende cómo el cerebro se adapta y protege ante situaciones traumáticas, y cómo esta respuesta puede dar lugar a la disociación y la creación de identidades fragmentadas. Obtén una comprensión más profunda de los procesos neurobiológicos involucrados en el trauma, la disociación y la sanación. A través de explicaciones accesibles y representaciones visuales, explora el intrincado funcionamiento del cerebro humano y cómo moldea nuestras experiencias.</br></br>
+3. **Neurociencia y El Proceso del Trauma:** Aprende cómo el cerebro se adapta y protege ante situaciones traumáticas, y cómo esta respuesta puede dar lugar a la disociación y la creación de identidades fragmentadas.. Descubre cómo los eventos traumáticos pueden desencadenar la fragmentación de la identidad y la creación de Partes Emocionales (EPs) como mecanismo de supervivencia. Explora los procesos neurobiológicos que subyacen a la formación de EPs y alters en el trauma complejo.  Obtén una comprensión más profunda de los procesos neurobiológicos involucrados en el trauma, la disociación y la sanación. A través de explicaciones accesibles y representaciones visuales, explora el intrincado funcionamiento del cerebro humano y cómo moldea nuestras experiencias.</br></br>
 
 <p align="center">
   <img src="/broken/assets/images/10.png" alt="Fragmentation" width="50%">
@@ -52,12 +52,10 @@ Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neuro
   <img src="/broken/assets/images/16.png" alt="Feel The Sea" width="45%">
 </p>
 
-### Experiencia de Videojuego
+### Videojuego
 
-Sumérgete en una experiencia única de videojuego que combina narración, exploración y conceptos psicológicos.
+El proyecto planea la creación de un videojuego que combina narración, exploración y conceptos psicológicos.
 En "The Broken Symphony", el juego se convierte en una experiencia de autodescubrimiento. A medida que exploras la historia de Luka y su viaje hacia la sanación, te invitamos a reflexionar sobre tu propia identidad y reconocer las diferentes partes de ti mism@.
-
-A través de preguntas reflexivas, actividades de autodescubrimiento y ejercicios de visualización, el juego te desafía a reconocer tus propias "partes" internas. No se trata necesariamente de trastornos disociativos, sino de las diferentes facetas de tu ser y cómo se entrelazan para formar tu identidad única.
 
 A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrimiento y crecimiento personal. A través de la exploración de tus propias "partes", podrás comprender mejor tus emociones, fortalezas y desafíos, y aprender a integrarlos en una sinfonía.
 
