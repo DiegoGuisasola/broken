@@ -62,8 +62,8 @@ A través de preguntas reflexivas, actividades de autodescubrimiento y ejercicio
 A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrimiento y crecimiento personal. A través de la exploración de tus propias "partes", podrás comprender mejor tus emociones, fortalezas y desafíos, y aprender a integrarlos en una sinfonía.
 
 <p align="center">
-  <img src="/broken/assets/images/17.png" alt="Switching" width="45%">
-  <img src="/broken/assets/images/18.png" alt="Dissociation" width="45%">
+  <img src="/broken/assets/images/17.png" alt="Switching" width="80%">
+  <img src="/broken/assets/images/18.png" alt="Dissociation" width="80%">
 </p>
 
 Soundtrack:
