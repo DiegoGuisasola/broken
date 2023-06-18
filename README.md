@@ -10,12 +10,6 @@
 
 Este proyecto se compone de diversas secciones que abarcan desde el viaje personal del protagonista hasta exploraciones históricas y perspectivas neurocientíficas sobre el trauma. A través de estas secciones, el público podrá comprender la complejidad del trauma y la disociación, así como la importancia de la terapia y el autodescubrimiento en el proceso de sanación.
 
-## Arcos Narrativos
-
-### El Viaje de Luka
-
-Luka, un músico peruano con un pasado turbulento, se encuentra atrapado en una red de trauma y disociación. Mientras navega por la vida, descubre el poder de la terapia, la música y el autodescubrimiento en el proceso de sanación.
-
 ## Secciones del Proyecto
 
 1. **El Viaje de Luka:** Acompaña a Luka, un músico con un pasado turbulento, mientras se sumerge en su viaje personal hacia la sanación. A medida que explora su propio trauma y disociación, descubre el poder de la terapia, la música y el autodescubrimiento para superar sus experiencias pasadas.
