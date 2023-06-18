@@ -86,5 +86,5 @@ https://github.com/DiegoGuisasola/broken/assets/44145128/1c397ebe-5cc3-4c28-b7d5
 Síguenos en [Instagram](https://instagram.com/) y [Twitter](https://twitter.com/) para conocer las últimas noticias y obtener información exclusiva de detrás de escena.
 
 <p align="center">
-  <img src="/images/19.png" alt="Logo" width="10%">
+  <img src="/assets/images/19.png" alt="Logo" width="10%">
 </p>
