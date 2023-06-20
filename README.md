@@ -66,11 +66,14 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 
 # Soundtrack:
 
+caption1 | caption2
+:-: | :-:
+
 ## Find my way - Gremlin
 <video controls style="width: 100%; height: auto;">
   <source src="https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> |
 
 ## Happy - NF
 <video controls>
