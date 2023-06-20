@@ -96,6 +96,26 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 
 En nuestro viaje para desarrollar la compleja narrativa de "The Broken Symphony", nos hemos basado en una serie de obras académicas y literarias claves que nos ayudan a comprender y representar de manera precisa el trauma, la disociación y el trastorno de identidad disociativo. Aquí están algunas de las más notables:
 
+<table>
+    <tr>
+        <th>#</th>
+        <th>Author(s)</th>
+        <th>Title</th>
+        <th>Publication</th>
+        <th>Year</th>
+        <th>Summary</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Nijenhuis, E.R., Van der Hart, O.</td>
+        <td>Dissociation in Trauma: A New Definition and Comparison with Previous Formulations</td>
+        <td>Journal of Trauma & Dissociation</td>
+        <td>2011</td>
+        <td>Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism.</td>
+    </tr>
+    <!-- Add remaining rows here following the same pattern -->
+</table>
+
 | # | Author(s) | Title | Publication | Year | Summary |
 |---|-----------|-------|-------------|------|---------|
 | 1 | Nijenhuis, E.R., Van der Hart, O. | Dissociation in Trauma: A New Definition and Comparison with Previous Formulations | Journal of Trauma & Dissociation | 2011 | Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism. |
