@@ -10,6 +10,26 @@
 
 Este proyecto se compone de diversas secciones que abarcan desde el viaje personal del protagonista hasta exploraciones históricas y perspectivas neurocientíficas sobre el trauma. A través de estas secciones, el público podrá comprender la complejidad del trauma y la disociación, así como la importancia de la terapia y el autodescubrimiento en el proceso de sanación.
 
+## The Broken Symphony
+Para entender mejor el proyecto, debemos dar una mirada más profunda a los conceptos de la teoría del apego, la creación de la memoria y el procesamiento de eventos traumáticos por el cerebro:
+
+### Teoría del apego:
+La teoría del apego, desarrollada por John Bowlby y Mary Ainsworth, postula que los vínculos formados entre los niños y sus cuidadores primarios en la vida temprana tienen un impacto significativo en el desarrollo social, emocional y cognitivo del niño. Un apego seguro, caracterizado por la respuesta constante del cuidador a las necesidades del niño, fomenta un sentido de seguridad. Por otro lado, el cuidado inconsistente o negligente puede llevar a estilos de apego inseguros, que pueden manifestarse en la adultez como dificultades para formar relaciones saludables, ansiedad y otros problemas.
+
+En el contexto de "The Broken Symphony", el personaje de Luka experimenta una interrupción en su apego debido a experiencias traumáticas tempranas. Esto afecta su capacidad para formar y mantener relaciones saludables y contribuye a su desarrollo del trastorno de identidad disociativo (DID).
+
+### Creación de la memoria:
+La formación de la memoria implica tres etapas primarias: codificación (procesamiento de la información entrante), almacenamiento (mantenimiento de la información a lo largo del tiempo) y recuperación (acceso a la información almacenada cuando se necesita). Este proceso está mediado por varias regiones del cerebro, particularmente el hipocampo, que juega un papel crucial en la consolidación de información de la memoria a corto plazo a la memoria a largo plazo.
+
+"The Broken Symphony" ilustra esto a través del viaje de Luka mientras lucha con sus recuerdos fragmentados, algunos de los cuales han sido 'almacenados' por sus alter egos para protegerlo del dolor que llevan.
+
+### Procesamiento de eventos traumáticos:
+Cuando una persona experimenta un evento traumático, el cerebro entra en un estado elevado de estrés y miedo. La amígdala, el centro emocional del cerebro, envía una señal de angustia al hipotálamo, que se comunica con el resto del cuerpo a través del sistema nervioso autónomo. Este sistema orquesta la respuesta de "lucha o huida", que conduce a un aumento de la frecuencia cardíaca, la presión arterial y la alerta.
+
+En algunos casos, particularmente cuando el trauma es severo o recurrente, el cerebro puede activar mecanismos protectores como la disociación, donde la conciencia se interrumpe y las memorias del evento pueden almacenarse de manera diferente o ser difíciles de acceder. Esto se representa en "The Broken Symphony" a través del DID de Luka, una respuesta compleja a su trauma temprano.
+
+Estos conceptos desempeñan un papel vital en la narrativa de "The Broken Symphony", dando forma al personaje de Luka y sus interacciones con su mundo interno y externo. Las partes de su personalidad, que se formaron como una respuesta a su traumático pasado, son una representación de cómo el cerebro puede adaptarse y sobrevivir en circunstancias extremas. Cada alter ego tiene su propio papel y propósito, ayudando a Luka a navegar por las complejidades de su vida y traumas pasados.
+
 ## Secciones del Proyecto
 
 1. **El Viaje de Luka:** Acompaña a Luka, un músico con un pasado turbulento, mientras se sumerge en su viaje personal hacia la sanación. A medida que explora su propio trauma y disociación, descubre el poder de la terapia, la música y el autodescubrimiento para superar sus experiencias pasadas.
@@ -73,6 +93,8 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 [![Watch the video](https://img.youtube.com/vi/JcREdXOxtUc/maxresdefault.jpg)](https://youtu.be/JcREdXOxtUc)
 
 # Referencias
+
+En nuestro viaje para desarrollar la compleja narrativa de "The Broken Symphony", nos hemos basado en una serie de obras académicas y literarias claves que nos ayudan a comprender y representar de manera precisa el trauma, la disociación y el trastorno de identidad disociativo. Aquí están algunas de las más notables:
 
 | # | Author(s) | Title | Publication | Year | Summary |
 |---|-----------|-------|-------------|------|---------|
