@@ -74,8 +74,6 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 
 # Referencias
 
-Here's your requested data converted into a markdown table:
-
 | # | Author(s) | Title | Publication | Year | Summary |
 |---|-----------|-------|-------------|------|---------|
 | 1 | Nijenhuis, E.R., Van der Hart, O. | Dissociation in Trauma: A New Definition and Comparison with Previous Formulations | Journal of Trauma & Dissociation | 2011 | Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism. |
@@ -91,9 +89,6 @@ Here's the markdown code for your table:
 | 10 | Van der Hart, O., Nijenhuis, E. R., & Steele, K. | The Theory of Structural Dissociation of the Personality | In Trauma and Dissociation in a Cross-cultural Perspective: Not Just a North American Phenomenon | 2007 | The authors further explain the concept of structural dissociation, detailing its theoretical underpinnings and relevance in understanding and treating trauma-related disorders. |
 | 11 | Frewen, P., Lanius, R. | Healing the Traumatized Self: Consciousness, Neuroscience, Treatment | W. W. Norton & Company | 2015 | The book presents a new and innovative framework for therapeutic intervention with trauma survivors by integrating the latest research in consciousness, cognitive and affective neuroscience, and attachment theory. |
 | 12 | Van der Kolk, B. | The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma | Viking | 2014 | This work discusses how trauma and its resulting stress can affect the brain, mind, and body, and explores various methods that have been shown to help in the healing process. |
-
-
-When you paste this into a markdown-compatible editor, it will create a formatted table.
 
 ## Participa
 
