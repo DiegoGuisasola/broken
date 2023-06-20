@@ -18,18 +18,18 @@ Este proyecto se compone de diversas secciones que abarcan desde el viaje person
   <img src="/broken/assets/images/2.png" alt="Luka and Carlos" width="50%">
 </p>
 
-2. **Metáfora de la Biblioteca y Perspectivas Neurocientíficas:** Sumérgete en una exploración profunda de la metáfora de la biblioteca y su conexión con las perspectivas neurocientíficas del trauma y la disociación. Descubre cómo se crean y almacenan las memorias en el cerebro y qué ocurre durante un evento traumático que puede llevar a la fragmentación de la identidad.
+2. **Neurociencia y El Proceso del Trauma:** Descubre cómo los eventos traumáticos pueden desencadenar la fragmentación de la identidad y la creación de Partes Emocionales (EPs) como mecanismo de supervivencia. Explora los procesos neurobiológicos que subyacen a la formación de EPs y alters en el trauma complejo.  Obtén una comprensión más profunda de los procesos neurobiológicos involucrados en el trauma, la disociación y la sanación. A través de explicaciones accesibles y representaciones visuales, explora el intrincado funcionamiento del cerebro humano y cómo moldea nuestras experiencias.
+
+<p align="center">
+  <img src="/broken/assets/images/10.png" alt="Fragmentation" width="50%">
+</p>
+
+3. **Metáfora de la Biblioteca y Perspectivas Neurocientíficas:** Sumérgete en una exploración profunda de la metáfora de la biblioteca y su conexión con las perspectivas neurocientíficas del trauma y la disociación. Descubre cómo se crean y almacenan las memorias en el cerebro y qué ocurre durante un evento traumático que puede llevar a la fragmentación de la identidad.
 Explora cómo la biblioteca representa las experiencias fragmentadas y los recuerdos en la mente de Luka. Cada sección de la biblioteca simboliza un aspecto específico de su historia y personalidad, y a medida que Luka navega por ella, desentraña las pistas ocultas que lo ayudan a comprender su propia narrativa.
 Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neurocientíficos del trauma y la disociación. Descubre cómo los recuerdos fragmentados se almacenan en diferentes secciones de la biblioteca mental y cómo los procesos neurobiológicos pueden influir en la organización de la identidad.
 
 <p align="center">
   <img src="/broken/assets/images/3.png" alt="Ghost Writer" width="50%">
-</p>
-   
-3. **Neurociencia y El Proceso del Trauma:** Aprende cómo el cerebro se adapta y protege ante situaciones traumáticas, y cómo esta respuesta puede dar lugar a la disociación y la creación de identidades fragmentadas.. Descubre cómo los eventos traumáticos pueden desencadenar la fragmentación de la identidad y la creación de Partes Emocionales (EPs) como mecanismo de supervivencia. Explora los procesos neurobiológicos que subyacen a la formación de EPs y alters en el trauma complejo.  Obtén una comprensión más profunda de los procesos neurobiológicos involucrados en el trauma, la disociación y la sanación. A través de explicaciones accesibles y representaciones visuales, explora el intrincado funcionamiento del cerebro humano y cómo moldea nuestras experiencias.
-
-<p align="center">
-  <img src="/broken/assets/images/10.png" alt="Fragmentation" width="50%">
 </p>
 
 4. **Recuerdo Histórico:** Sumérgete en la historia y evolución de las teorías sobre el trauma y la disociación. Explora las obras de destacados psicólogos y psiquiatras como Charcot, Freud, Breuer y Pierre Janet, y descubre cómo sus contribuciones han dado forma a nuestra comprensión actual del trauma. Al examinar la evolución de estas teorías, el proyecto arroja luz sobre la comprensión y el tratamiento del trauma.
@@ -45,7 +45,7 @@ Examina cómo la metáfora de la biblioteca se relaciona con los conceptos neuro
   <img src="/broken/assets/images/11.png" alt="Rediscovery" width="45%">
 </p>
 
-6. **Terapia y Sanación:** Explora los diferentes enfoques terapéuticos que guían a Luka en su proceso de sanación. Desde la Terapia Conductual Dialéctica (DBT) hasta la Terapia Cognitivo-Conductual (CBT), descubre cómo estas prácticas terapéuticas ayudan a Luka a superar el trauma y recuperar el control de su vida.
+6. **Terapia y Sanación:** Explora los diferentes enfoques terapéuticos que guían a Luka en su proceso de sanación. Desde el yoga hasta la Terapia Conductual Dialéctica (DBT) y la Terapia Cognitivo-Conductual (CBT), descubre cómo estas prácticas terapéuticas ayudan a Luka a superar el trauma y recuperar el control de su vida.
 
 <p align="center">
   <img src="/broken/assets/images/15.png" alt="Sunset" width="45%">
@@ -74,7 +74,6 @@ https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829
   <source src="https://www.youtube.com/watch?v=vhumOLNSSJY" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 
 3: 
