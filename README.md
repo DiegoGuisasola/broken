@@ -64,20 +64,22 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
   <img src="/broken/assets/images/18.png" alt="Dissociation" width="80%">
 </p>
 
-Soundtrack:
+# Soundtrack:
 
-** Find my way - Gremlin **
-<video controls>
+## Find my way - Gremlin
+<video controls style="width: 100%; height: auto;">
   <source src="https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-** Happy - NF **
+## Happy - NF
 <video controls>
   <source src="https://www.youtube.com/watch?v=vhumOLNSSJY" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+## Happy - NF
+[![Watch the video](https://img.youtube.com/vi/vhumOLNSSJY/maxresdefault.jpg)](https://youtu.be/vhumOLNSSJY)
 
 ## Participa
 
