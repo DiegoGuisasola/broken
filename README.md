@@ -66,9 +66,10 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 
 # Soundtrack:
 
-Happy - NF | Find my way - Gremlin
-:-: | :-:
-[![Watch the video](https://img.youtube.com/vi/vhumOLNSSJY/maxresdefault.jpg)](https://youtu.be/vhumOLNSSJY) | 
+## Happy - NF
+[![Watch the video](https://img.youtube.com/vi/vhumOLNSSJY/maxresdefault.jpg)](https://youtu.be/vhumOLNSSJY)
+
+## Find my way - Gremlin
 [![Watch the video](https://img.youtube.com/vi/JcREdXOxtUc/maxresdefault.jpg)](https://youtu.be/JcREdXOxtUc)
 
 ## Participa
