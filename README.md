@@ -72,6 +72,29 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 ## Find my way - Gremlin
 [![Watch the video](https://img.youtube.com/vi/JcREdXOxtUc/maxresdefault.jpg)](https://youtu.be/JcREdXOxtUc)
 
+# Referencias
+
+Here's your requested data converted into a markdown table:
+
+| # | Author(s) | Title | Publication | Year | Summary |
+|---|-----------|-------|-------------|------|---------|
+| 1 | Nijenhuis, E.R., Van der Hart, O. | Dissociation in Trauma: A New Definition and Comparison with Previous Formulations | Journal of Trauma & Dissociation | 2011 | Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism. |
+| 2 | Frewen, P., Brown, M., DePierro, J., D'Andrea, W., & Schore, A. | Trauma-related altered states of consciousness in posttraumatic stress disorder patients with a high dissociative profile: Network analysis and a theorized role of the parasympathetic nervous system | Frontiers in Psychology | 2020 | Describes trauma-related altered states of consciousness in individuals with PTSD and the role of the parasympathetic nervous system. |
+| 3 | Brand, B.L., McNary, S.W., Loewenstein, R.J., Kolos, A.C., & Barr, S.R. | A Longitudinal Naturalistic Study of Patients with Dissociative Disorders Treated by Community Clinicians | Psychological Trauma: Theory, Research, Practice, and Policy | 2020 | Examines outcomes for patients with dissociative disorders treated in community settings. |
+| 4 | Krause-Utz, A., Frost, R., Winter, D., & Elzinga, B.M. | Dissociation and Alterations in Brain Function and Structure: Implications for Borderline Personality Disorder | Current Psychiatry Reports | 2017 | Discusses possible relationships between dissociation, alterations in brain function and structure, and borderline personality disorder. |
+| 5 | Schimmenti, A., Caretti, V. | Dissociative Processes and Dissociative Disorders: A Historical Perspective | Journal of Trauma & Dissociation | 2020 | Provides a historical review of theories about dissociative processes and disorders. |
+| 6 | De Kloet, C.S., Vermetten, E., Rademaker, A.R., Geuze, E., & Westenberg, H.G. | Neuroendocrine and immune responses to a cognitive stress challenge in veterans with and without PTSD | European Journal of Psychotraumatology | 2012 | Explores the neuroendocrine and immune responses to cognitive stress challenges in veterans, comparing those with and without PTSD. |
+| 7 | Herman, J. | Trauma and Recovery: The Aftermath of Violence - From Domestic Abuse to Political Terror | BasicBooks | 1992 | A seminal work discussing trauma and its effects on the individual, tracing the history of understanding trauma from Freud and Janet to the present day. |
+| 8 | Bowlby, J. | Attachment and Loss Volume I: Attachment | Basic Books | 1969 | Discusses the concept of attachment and its impact on human development and relationships. |
+| 9 | Van der Hart, O., Nijenhuis, E., & Steele, K. | The Haunted Self: Structural Dissociation and the Treatment of Chronic Traumatization | W. W. Norton & Company | 2006 | Presents a model of structural dissociation and its treatment, especially in cases of complex trauma. |
+Here's the markdown code for your table:
+| 10 | Van der Hart, O., Nijenhuis, E. R., & Steele, K. | The Theory of Structural Dissociation of the Personality | In Trauma and Dissociation in a Cross-cultural Perspective: Not Just a North American Phenomenon | 2007 | The authors further explain the concept of structural dissociation, detailing its theoretical underpinnings and relevance in understanding and treating trauma-related disorders. |
+| 11 | Frewen, P., Lanius, R. | Healing the Traumatized Self: Consciousness, Neuroscience, Treatment | W. W. Norton & Company | 2015 | The book presents a new and innovative framework for therapeutic intervention with trauma survivors by integrating the latest research in consciousness, cognitive and affective neuroscience, and attachment theory. |
+| 12 | Van der Kolk, B. | The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma | Viking | 2014 | This work discusses how trauma and its resulting stress can affect the brain, mind, and body, and explores various methods that have been shown to help in the healing process. |
+
+
+When you paste this into a markdown-compatible editor, it will create a formatted table.
+
 ## Participa
 
 Únete a nosotros en este cautivador viaje de autodescubrimiento, sanación y resiliencia. Mantente atento a las actualizaciones, experiencias interactivas y oportunidades para participar en la comunidad de The Broken Symphony.
