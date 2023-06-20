@@ -70,7 +70,12 @@ Soundtrack:
 https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c
 
 2:
-<video src='https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c'/>
+<video controls>
+  <source src="https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 3: 
 <video src='https://www.youtube.com/watch?v=vhumOLNSSJY' width=180/>
