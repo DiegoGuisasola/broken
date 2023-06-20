@@ -66,9 +66,14 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 
 Soundtrack:
 
+1:
 https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c
 
-https://github.com/DiegoGuisasola/broken/assets/44145128/1c397ebe-5cc3-4c28-b7d5-23045256a7a1
+2:
+<video src='https://github.com/DiegoGuisasola/broken/assets/44145128/c5a8c685-9a09-4df3-a829-88d03938569c' width=180/>
+
+3: 
+<video src='https://www.youtube.com/watch?v=vhumOLNSSJY' width=180/>
 
 ## Participa
 
