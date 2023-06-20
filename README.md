@@ -10,7 +10,7 @@
 
 Este proyecto se compone de diversas secciones que abarcan desde el viaje personal del protagonista hasta exploraciones históricas y perspectivas neurocientíficas sobre el trauma. A través de estas secciones, el público podrá comprender la complejidad del trauma y la disociación, así como la importancia de la terapia y el autodescubrimiento en el proceso de sanación.
 
-## The Broken Symphony
+## Introducción
 Para entender mejor el proyecto, debemos dar una mirada más profunda a los conceptos de la teoría del apego, la creación de la memoria y el procesamiento de eventos traumáticos por el cerebro:
 
 ### Teoría del apego:
@@ -89,48 +89,134 @@ A medida que avanzas en el juego, te adentrarás en una jornada de autodescubrim
 ## Happy - NF
 [![Watch the video](https://img.youtube.com/vi/vhumOLNSSJY/maxresdefault.jpg)](https://youtu.be/vhumOLNSSJY)
 
-## Find my way - Gremlin
-[![Watch the video](https://img.youtube.com/vi/JcREdXOxtUc/maxresdefault.jpg)](https://youtu.be/JcREdXOxtUc)
+# Tech Stack
+
+"The Broken Symphony" no sólo se destaca por su narrativa profunda y bien investigada, sino también por su innovador uso de la tecnología en su producción. Aquí te presentamos un resumen del conjunto de tecnologías que utilizamos:
+
+### Unity
+La base de nuestra producción, Unity es el motor que impulsa nuestra serie. Con su robusto conjunto de herramientas de animación, cinemáticas y temporización, podemos llevar a la vida nuestra visión de la historia de una manera asombrosa.
+### Cinemachine y Timeline:
+Estos paquetes dentro de Unity nos permiten crear cinemáticas impresionantes y secuencias de tiempo complejas, aumentando la inmersión y la profundidad de la historia.
+### OpenAI GPT-3 y ChatGPT:
+Estas poderosas herramientas de inteligencia artificial nos permiten generar prompts especializados que usamos en Midjourney.
+### Midjourney:
+Este servicio nos permite generar descripciones visuales detalladas para nuestros artistas, asegurándonos de que cada escena se ajuste a nuestra visión de la historia.
 
 # Referencias
 
 En nuestro viaje para desarrollar la compleja narrativa de "The Broken Symphony", nos hemos basado en una serie de obras académicas y literarias claves que nos ayudan a comprender y representar de manera precisa el trauma, la disociación y el trastorno de identidad disociativo. Aquí están algunas de las más notables:
 
 <table>
-    <tr>
-        <th>#</th>
-        <th>Author(s)</th>
-        <th>Title</th>
-        <th>Publication</th>
-        <th>Year</th>
-        <th>Summary</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Nijenhuis, E.R., Van der Hart, O.</td>
-        <td>Dissociation in Trauma: A New Definition and Comparison with Previous Formulations</td>
-        <td>Journal of Trauma & Dissociation</td>
-        <td>2011</td>
-        <td>Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism.</td>
-    </tr>
-    <!-- Add remaining rows here following the same pattern -->
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Author(s)</th>
+            <th>Title</th>
+            <th>Publication</th>
+            <th>Year</th>
+            <th>Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Nijenhuis, E.R., Van der Hart, O.</td>
+            <td>Dissociation in Trauma: A New Definition and Comparison with Previous Formulations</td>
+            <td>Journal of Trauma & Dissociation</td>
+            <td>2011</td>
+            <td>Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism.</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Frewen, P., Brown, M., DePierro, J., D'Andrea, W., & Schore, A.</td>
+            <td>Trauma-related altered states of consciousness in posttraumatic stress disorder patients with a high dissociative profile: Network analysis and a theorized role of the parasympathetic nervous system</td>
+            <td>Frontiers in Psychology</td>
+            <td>2020</td>
+            <td>Describes trauma-related altered states of consciousness in individuals with PTSD and the role of the parasympathetic nervous system.</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Brand, B.L., McNary, S.W., Loewenstein, R.J., Kolos, A.C., & Barr, S.R.</td>
+            <td>A Longitudinal Naturalistic Study of Patients with Dissociative Disorders Treated by Community Clinicians</td>
+            <td>Psychological Trauma: Theory, Research, Practice, and Policy</td>
+            <td>2020</td>
+            <td>Examines outcomes for patients with dissociative disorders treated in community settings.</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Krause-Utz, A., Frost, R., Winter, D., & Elzinga, B.M.</td>
+            <td>Dissociation and Alterations in Brain Function and Structure: Implications for Borderline Personality Disorder</td>
+            <td>Current Psychiatry Reports</td>
+            <td>2017</td>
+            <td>Discusses possible relationships between dissociation, alterations in brain function and structure, and borderline personality disorder.</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Schimmenti, A., Caretti, V.</td>
+            <td>Dissociative Processes and Dissociative Disorders: A Historical Perspective</td>
+            <td>Journal of Trauma & Dissociation</td>
+            <td>2020</td>
+            <td>Provides a historical review of theories about dissociative processes and disorders.</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>De Kloet, C.S., Vermetten, E., Rademaker, A.R., Geuze, E., & Westenberg, H.G.</td>
+            <td>Neuroendocrine and immune responses to a cognitive stress challenge in veterans with and without PTSD</td>
+            <td>European Journal of Psychotraumatology</td>
+            <td>2012</td>
+            <td>Explores the neuroendocrine and immune responses to cognitive stress challenges in veterans, comparing those with and without PTSD.</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Herman, J.</td>
+            <td>Trauma and Recovery: The Aftermath of Violence - From Domestic Abuse to Political Terror</td>
+            <td>BasicBooks</td>
+            <td>1992</td>
+            <td>A seminal work discussing trauma and its effects on the individual, tracing the history of understanding trauma from Freud and Janet to the present day.</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Bowlby, J.</td>
+            <td>Attachment and Loss Volume I: Attachment</td>
+            <td>Basic Books</td>
+            <td>1969</td>
+            <td>Discusses the concept of attachment and its impact on human development and relationships.</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Van der Hart, O., Nijenhuis, E., & Steele, K.</td>
+            <td>The Haunted Self: Structural Dissociation and the Treatment of Chronic Traumatization</td>
+            <td>W. W. Norton & Company</td>
+            <td>2006</td>
+            <td>Presents a model of structural dissociation and its treatment, especially in cases of complex trauma.</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Van der Hart, O., Nijenhuis, E. R., & Steele, K.</td>
+            <td>The Theory of Structural Dissociation of the Personality</td>
+            <td>In Trauma and Dissociation in a Cross-cultural Perspective: Not Just a North American Phenomenon</td>
+            <td>2007</td>
+            <td>The authors further explain the concept of structural dissociation, detailing its theoretical underpinnings and relevance in understanding and treating trauma-related disorders.</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Frewen, P., Lanius, R.</td>
+            <td>Healing the Traumatized Self: Consciousness, Neuroscience, Treatment</td>
+            <td>W. W. Norton & Company</td>
+            <td>2015</td>
+            <td>The book presents a new and innovative framework for therapeutic intervention with trauma survivors by integrating the latest research in consciousness, cognitive and affective neuroscience, and attachment theory.</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Van der Kolk, B.</td>
+            <td>The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</td>
+            <td>Viking</td>
+            <td>2014</td>
+            <td>This work discusses how trauma and its resulting stress can affect the brain, mind, and body, and explores various methods that have been shown to help in the healing process.</td>
+        </tr>
+    </tbody>
 </table>
 
-| # | Author(s) | Title | Publication | Year | Summary |
-|---|-----------|-------|-------------|------|---------|
-| 1 | Nijenhuis, E.R., Van der Hart, O. | Dissociation in Trauma: A New Definition and Comparison with Previous Formulations | Journal of Trauma & Dissociation | 2011 | Proposes that trauma-related structural dissociation of the personality involves a division of the personality into different types of subsystems, not a defense mechanism. |
-| 2 | Frewen, P., Brown, M., DePierro, J., D'Andrea, W., & Schore, A. | Trauma-related altered states of consciousness in posttraumatic stress disorder patients with a high dissociative profile: Network analysis and a theorized role of the parasympathetic nervous system | Frontiers in Psychology | 2020 | Describes trauma-related altered states of consciousness in individuals with PTSD and the role of the parasympathetic nervous system. |
-| 3 | Brand, B.L., McNary, S.W., Loewenstein, R.J., Kolos, A.C., & Barr, S.R. | A Longitudinal Naturalistic Study of Patients with Dissociative Disorders Treated by Community Clinicians | Psychological Trauma: Theory, Research, Practice, and Policy | 2020 | Examines outcomes for patients with dissociative disorders treated in community settings. |
-| 4 | Krause-Utz, A., Frost, R., Winter, D., & Elzinga, B.M. | Dissociation and Alterations in Brain Function and Structure: Implications for Borderline Personality Disorder | Current Psychiatry Reports | 2017 | Discusses possible relationships between dissociation, alterations in brain function and structure, and borderline personality disorder. |
-| 5 | Schimmenti, A., Caretti, V. | Dissociative Processes and Dissociative Disorders: A Historical Perspective | Journal of Trauma & Dissociation | 2020 | Provides a historical review of theories about dissociative processes and disorders. |
-| 6 | De Kloet, C.S., Vermetten, E., Rademaker, A.R., Geuze, E., & Westenberg, H.G. | Neuroendocrine and immune responses to a cognitive stress challenge in veterans with and without PTSD | European Journal of Psychotraumatology | 2012 | Explores the neuroendocrine and immune responses to cognitive stress challenges in veterans, comparing those with and without PTSD. |
-| 7 | Herman, J. | Trauma and Recovery: The Aftermath of Violence - From Domestic Abuse to Political Terror | BasicBooks | 1992 | A seminal work discussing trauma and its effects on the individual, tracing the history of understanding trauma from Freud and Janet to the present day. |
-| 8 | Bowlby, J. | Attachment and Loss Volume I: Attachment | Basic Books | 1969 | Discusses the concept of attachment and its impact on human development and relationships. |
-| 9 | Van der Hart, O., Nijenhuis, E., & Steele, K. | The Haunted Self: Structural Dissociation and the Treatment of Chronic Traumatization | W. W. Norton & Company | 2006 | Presents a model of structural dissociation and its treatment, especially in cases of complex trauma. |
-Here's the markdown code for your table:
-| 10 | Van der Hart, O., Nijenhuis, E. R., & Steele, K. | The Theory of Structural Dissociation of the Personality | In Trauma and Dissociation in a Cross-cultural Perspective: Not Just a North American Phenomenon | 2007 | The authors further explain the concept of structural dissociation, detailing its theoretical underpinnings and relevance in understanding and treating trauma-related disorders. |
-| 11 | Frewen, P., Lanius, R. | Healing the Traumatized Self: Consciousness, Neuroscience, Treatment | W. W. Norton & Company | 2015 | The book presents a new and innovative framework for therapeutic intervention with trauma survivors by integrating the latest research in consciousness, cognitive and affective neuroscience, and attachment theory. |
-| 12 | Van der Kolk, B. | The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma | Viking | 2014 | This work discusses how trauma and its resulting stress can affect the brain, mind, and body, and explores various methods that have been shown to help in the healing process. |
 
 ## Participa
 
