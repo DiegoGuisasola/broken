@@ -218,6 +218,13 @@ En nuestro viaje para desarrollar la compleja narrativa de "The Broken Symphony"
 </table>
 
 
+## Quienes somos?
+
+Somos Pi Gaming (Purpose in Gaming), un estudio independiente de desarrollo de videojuegos. Creemos que todos los juegos tienen un propósito especial, a eso apuntamos.
+
+LinkedIn Pi Gaming: https://www.linkedin.com/company/pi-gaming/
+
+
 ## Participa
 
 Únete a nosotros en este cautivador viaje de autodescubrimiento, sanación y resiliencia. Mantente atento a las actualizaciones, experiencias interactivas y oportunidades para participar en la comunidad de The Broken Symphony.
