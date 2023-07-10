@@ -229,7 +229,7 @@ LinkedIn Pi Gaming: https://www.linkedin.com/company/pi-gaming/
 
 Únete a nosotros en este cautivador viaje de autodescubrimiento, sanación y resiliencia. Mantente atento a las actualizaciones, experiencias interactivas y oportunidades para participar en la comunidad de The Broken Symphony.
 
-Síguenos en [Instagram](https://instagram.com/) y [Twitter](https://twitter.com/) para conocer las últimas noticias y obtener información exclusiva de detrás de escena.
+Síguenos en [Discord](https://discord.gg/P2vPzAD4) para conocer las últimas noticias y obtener información exclusiva del proyecto.
 
 <p align="center">
   <img src="/broken/assets/images/19.png" alt="Logo" width="10%">
